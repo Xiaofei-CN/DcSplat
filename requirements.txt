@@ -1,0 +1,12 @@
+xformers==0.0.21
+huggingface-hub==0.17.3
+diffusers==0.19.3
+accelerate==0.23.0
+einops
+opencv-python
+jaxtyping==0.2.19
+omegaconf==2.3.0
+scikit-image==0.21.0
+lpips==0.1.4
+trimesh==4.6.5
+tensorboard
