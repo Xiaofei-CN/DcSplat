@@ -2,8 +2,8 @@
 Official implementation of "DcSplat: Dual-Constraint Human Gaussian Splatting with Latent Multi-View Consistency".
 
 ## :fire: News
-* **[2023.3.4]** We have created a code repository on [github](https://github.com/Xiaofei-CN/DPAGen) and will continue to update it in the future!
-* **[2025.2.26]** Our paper [Disentangled Pose and Appearance Guidance for Multi-Pose Generation]() has been accepted at the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025!
+* **[2023.3.4]** We have created a code repository on [github](https://github.com/Xiaofei-CN/DcSplat) and will continue to update it in the future!
+* **[2025.2.26]** Our paper [DcSplat: Dual-Constraint Human Gaussian Splatting with Latent Multi-View Consistency]() has been accepted at the The 40th Annual AAAI Conference on Artificial Intelligence!
 
 ## Method
 <img src=figure/overview.png>
