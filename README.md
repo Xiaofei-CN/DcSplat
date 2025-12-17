@@ -10,7 +10,7 @@ Official implementation of "DcSplat: Dual-Constraint Human Gaussian Splatting wi
 
 ## Installation
 
-To deploy and run DPAGen, run the following scripts:
+To deploy and run DcSplat, run the following scripts:
 ```
 conda create -n dcsplat python=3.8 -y
 conda activate dcsplat
